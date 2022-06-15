@@ -9,11 +9,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>JuniorGuruBot (+https://junior.guru)</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 14 Jun 2022 21:27:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jun 2022 04:47:37 +0000</lastBuildDate>
     <itunes:author>Pája Froňková and Honza Javorek</itunes:author>
     <dc:creator>Pája Froňková</dc:creator>
     <dc:creator>Honza Javorek &lt;honza@junior.guru&gt;</dc:creator>
-    <pubDate>Mon, 16 May 2022 02:42:42 +0200</pubDate>
+    <pubDate>Wed, 15 Jun 2022 02:42:42 +0200</pubDate>
     <webMaster>honza@junior.guru (Honza Javorek)</webMaster>
     <itunes:category text="Technology"/>
     <itunes:image href="https://junior.guru/static/images/podcast-v1.png"/>
@@ -95,6 +95,18 @@
       <itunes:image href="https://junior.guru/static/images/avatars-participants/petr-pribil.jpg"/>
       <itunes:episode>6</itunes:episode>
       <podcast:episode display="#5">6</podcast:episode>
+    </item>
+    <item>
+      <title>#6 Markéta Willis (Applifting) o její cestě k IT a učení (se) programování</title>
+      <link>https://junior.guru/podcast/#episode0006</link>
+      <description><![CDATA[<p>Do šestého dílu si Pája pozvala Markétu Willis. Ačkoliv Markéta vystudovala pedagogickou fakultu, teď se živí jako frontend developerka ve společnosti Applifting. Kromě toho ještě stíhá lektorovat pro Czechitas. Dozvíš se, jaká byla její cesta k programování a uslyšíš i o jejích zkušenostech z lektorování.</p>]]></description>
+      <guid isPermaLink="false">podcast.junior.guru#0006</guid>
+      <enclosure url="https://podcast.junior.guru/episodes/0006.mp3" length="25206470" type="audio/mpeg"/>
+      <itunes:duration>30:00</itunes:duration>
+      <pubDate>Wed, 15 Jun 2022 02:42:42 +0200</pubDate>
+      <itunes:image href="https://junior.guru/static/images/avatars-participants/marketa-willis.jpg"/>
+      <itunes:episode>7</itunes:episode>
+      <podcast:episode display="#6">7</podcast:episode>
     </item>
   </channel>
 </rss>
