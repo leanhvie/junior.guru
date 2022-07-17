@@ -9,11 +9,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>JuniorGuruBot (+https://junior.guru)</generator>
     <language>cs</language>
-    <lastBuildDate>Sun, 17 Jul 2022 04:47:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Jul 2022 10:19:55 +0000</lastBuildDate>
     <itunes:author>Pája Froňková and Honza Javorek</itunes:author>
     <dc:creator>Pája Froňková</dc:creator>
     <dc:creator>Honza Javorek &lt;honza@junior.guru&gt;</dc:creator>
-    <pubDate>Wed, 15 Jun 2022 02:42:42 +0200</pubDate>
+    <pubDate>Sun, 17 Jul 2022 02:42:42 +0200</pubDate>
     <webMaster>honza@junior.guru (Honza Javorek)</webMaster>
     <itunes:category text="Technology"/>
     <itunes:image href="https://junior.guru/static/images/podcast-v1.png"/>
@@ -106,6 +106,18 @@
       <itunes:image href="https://junior.guru/static/images/avatars-participants/marketa-willis.jpg"/>
       <itunes:episode>7</itunes:episode>
       <podcast:episode display="#6">7</podcast:episode>
+    </item>
+    <item>
+      <title>#7 Mia Bajić (Seznam) o cestě z Bosny do českého Seznamu</title>
+      <link>https://junior.guru/podcast/#episode0007</link>
+      <description><![CDATA[<p>V sedmém díle podcastu si Pája povídá s Miou Bajić, Python developerkou v Seznamu. Mia prozradí, jak se vůbec dostala z Bosny do České republiky a jakou cestu zvolila, aby získala práci v IT. Poslechni si, co říká na studium programování na vysoké škole a co jí pomohlo v její kariéře.</p>]]></description>
+      <guid isPermaLink="false">podcast.junior.guru#0007</guid>
+      <enclosure url="https://podcast.junior.guru/episodes/0007.mp3" length="21636733" type="audio/mpeg"/>
+      <itunes:duration>25:45</itunes:duration>
+      <pubDate>Sun, 17 Jul 2022 02:42:42 +0200</pubDate>
+      <itunes:image href="https://junior.guru/static/images/avatars-participants/mia-bajic.jpg"/>
+      <itunes:episode>8</itunes:episode>
+      <podcast:episode display="#7">8</podcast:episode>
     </item>
   </channel>
 </rss>
