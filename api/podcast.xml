@@ -9,11 +9,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>JuniorGuruBot (+https://junior.guru)</generator>
     <language>cs</language>
-    <lastBuildDate>Tue, 15 Nov 2022 04:36:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Nov 2022 12:20:29 +0000</lastBuildDate>
     <itunes:author>Pája Froňková and Honza Javorek</itunes:author>
     <dc:creator>Pája Froňková</dc:creator>
     <dc:creator>Honza Javorek &lt;honza@junior.guru&gt;</dc:creator>
-    <pubDate>Sat, 15 Oct 2022 02:42:42 +0200</pubDate>
+    <pubDate>Tue, 15 Nov 2022 01:42:42 +0100</pubDate>
     <webMaster>honza@junior.guru (Honza Javorek)</webMaster>
     <itunes:category text="Technology"/>
     <itunes:image href="https://junior.guru/static/images/podcast-v1.png"/>
@@ -142,6 +142,18 @@
       <itunes:image href="https://junior.guru/static/images/avatars-participants/marketa-lourenco.jpg"/>
       <itunes:episode>10</itunes:episode>
       <podcast:episode display="#9">10</podcast:episode>
+    </item>
+    <item>
+      <title>#10 Klára Šťouračová (Productboard) o úspěšném startu kariéry v IT</title>
+      <link>https://junior.guru/podcast/#episode0010</link>
+      <description><![CDATA[<p>V desátém díle si můžeš poslechnout Kláru Šťouračovou, která se už 7 let pohybuje na různých HR a People pozicích v technologických firmách. Kromě toho spoluzaložila makeITtoday, úspěšné kurzy programovaní pro děti. Jakých si za svoji kariéru všimla trendů v IT odvětví? Jak podle ní správně nastartovat kariéru? A proč si myslí, že je důležité děti vést k počítačové gramotnosti?</p>]]></description>
+      <guid isPermaLink="false">podcast.junior.guru#0010</guid>
+      <enclosure url="https://podcast.junior.guru/episodes/0010.mp3" length="30451178" type="audio/mpeg"/>
+      <itunes:duration>36:15</itunes:duration>
+      <pubDate>Tue, 15 Nov 2022 01:42:42 +0100</pubDate>
+      <itunes:image href="https://junior.guru/static/images/avatars-participants/klara-stouracova.jpg"/>
+      <itunes:episode>11</itunes:episode>
+      <podcast:episode display="#10">11</podcast:episode>
     </item>
   </channel>
 </rss>
